@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{444677BD-1A6D-4A3C-98B8-9DC98F80A8D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookClass", "BookClass\BookClass.csproj", "{4BA859E2-302D-4FB7-9850-9B178097A76C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch.Tests", "BinarySearch.Tests\BinarySearch.Tests.csproj", "{EF4C5200-D355-4831-A8B3-ECA1CCE78AA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{444677BD-1A6D-4A3C-98B8-9DC98F80A8D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444677BD-1A6D-4A3C-98B8-9DC98F80A8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444677BD-1A6D-4A3C-98B8-9DC98F80A8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444677BD-1A6D-4A3C-98B8-9DC98F80A8D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA859E2-302D-4FB7-9850-9B178097A76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA859E2-302D-4FB7-9850-9B178097A76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA859E2-302D-4FB7-9850-9B178097A76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA859E2-302D-4FB7-9850-9B178097A76C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4C5200-D355-4831-A8B3-ECA1CCE78AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4C5200-D355-4831-A8B3-ECA1CCE78AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4C5200-D355-4831-A8B3-ECA1CCE78AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4C5200-D355-4831-A8B3-ECA1CCE78AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
